@@ -233,7 +233,7 @@
           "build/_._": {}
         }
       },
-      "UiPath.Excel.Activities/2.8.0-preview": {
+      "UiPath.Excel.Activities/2.7.2": {
         "type": "package",
         "dependencies": {
           "ClosedXML": "0.87.1",
@@ -1214,10 +1214,10 @@
         "uipath.nuspec"
       ]
     },
-    "UiPath.Excel.Activities/2.8.0-preview": {
-      "sha512": "Vjg0wYypUK6OhPY0G3I5PZQQG11qtDeHdFA7q/qjgqlmd5SrLWGEoPwyW+S9AN5F238Z7Xrs6o8+C5ikEY1g6Q==",
+    "UiPath.Excel.Activities/2.7.2": {
+      "sha512": "wmOu6H+JPigFH6fO7mZTpH6xLYB14PUWprAtNsrjtu6zt1QUUcTHxjFq3d3HgK8vsERc0ZyoVUhIvqskxFScUQ==",
       "type": "package",
-      "path": "uipath.excel.activities/2.8.0-preview",
+      "path": "uipath.excel.activities/2.7.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1257,7 +1257,7 @@
         "lib/net461/zh-CN/UiPath.Excel.Activities.Design.resources.dll",
         "lib/net461/zh-CN/UiPath.Excel.Activities.resources.dll",
         "lib/net461/zh-CN/UiPath.Excel.resources.dll",
-        "uipath.excel.activities.2.8.0-preview.nupkg.sha512",
+        "uipath.excel.activities.2.7.2.nupkg.sha512",
         "uipath.excel.activities.nuspec"
       ]
     },
@@ -1587,7 +1587,7 @@
   "projectFileDependencyGroups": {
     "": [],
     ".NETFramework,Version=v4.6.1": [
-      "UiPath.Excel.Activities >= 2.8.0-preview <= 2.8.0-preview",
+      "UiPath.Excel.Activities >= 2.7.2 <= 2.7.2",
       "UiPath.Mail.Activities >= 1.8.0-preview <= 1.8.0-preview",
       "UiPath.System.Activities >= 19.12.0-preview <= 19.12.0-preview",
       "UiPath.UIAutomation.Activities >= 19.12.0-preview <= 19.12.0-preview"
@@ -1610,7 +1610,7 @@
           "UiPath.Excel.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[2.8.0-preview, 2.8.0-preview]"
+            "version": "[2.7.2, 2.7.2]"
           },
           "UiPath.Mail.Activities": {
             "include": "Runtime",
